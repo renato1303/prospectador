@@ -1,0 +1,6 @@
+{
+  "name": "LeadSite",
+  "description": "Prospectador de empresas locais sem site e mini CRM Kanban com IA e exportação Excel",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
